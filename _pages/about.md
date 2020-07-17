@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery1:
+layouts_gallery:
   - url: /assets/images/mm-about-image-1.jpg
     image_path: /assets/images/mm-about-image-1.jpg
     alt: "About think"
@@ -40,7 +40,7 @@ toc: true
 너그럽게 발전되는 모습을 감상하여 주세요.
 
 
-{% include gallery id="layouts_gallery1" caption="Photo by Mir." %}
+{% include gallery id="layouts_gallery" caption="Photo by Mir." %}
 
 ## Notable Features
 
