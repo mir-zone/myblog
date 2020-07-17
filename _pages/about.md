@@ -4,23 +4,23 @@ title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-about-image-1.jpg
-    image_path: /assets/images/mm-about-image-1.jpg
+    image_path: /assets/images/mm-about-image-1-th.jpg
     alt: "About think"
   - url: /assets/images/mm-about-image-2.jpg
-    image_path: /assets/images/mm-about-image-2.jpg
+    image_path: /assets/images/mm-about-image-2-th.jpg
     alt: "About think"
   - url: /assets/images/mm-about-image-3.jpg
-    image_path: /assets/images/mm-about-image-3.jpg
+    image_path: /assets/images/mm-about-image-3-th.jpg
     alt: "About think"
 layouts2_gallery:
   - url: /assets/images/mm-about-image-4.jpg
-    image_path: /assets/images/mm-about-image-4.jpg
+    image_path: /assets/images/mm-about-image-4-th.jpg
     alt: "About think"
   - url: /assets/images/mm-about-image-5.jpg
-    image_path: /assets/images/mm-about-image-5.jpg
+    image_path: /assets/images/mm-about-image-5-th.jpg
     alt: "About think"
   - url: /assets/images/mm-about-image-6.jpg
-    image_path: /assets/images/mm-about-image-6.jpg
+    image_path: /assets/images/mm-about-image-6-th.jpg
     alt: "About think"
 last_modified_at: 2020-05-01T10:15:22-04:00
 toc: true
