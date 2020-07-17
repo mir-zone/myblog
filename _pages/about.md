@@ -12,7 +12,7 @@ layouts_gallery:
   - url: /assets/images/mm-about-image-3.jpg
     image_path: /assets/images/mm-about-image-3.jpg
     alt: "About think"
-layouts_gallery2:
+layouts2_gallery:
   - url: /assets/images/mm-about-image-4.jpg
     image_path: /assets/images/mm-about-image-4.jpg
     alt: "About think"
@@ -72,7 +72,7 @@ toc: true
 나만 생각한다면 어려움만이 우리에게 다가오는 건 아닌지 ~!
 
 
-{% include gallery id="layouts_gallery2" caption="Photo by Mir." %}
+{% include gallery id="layouts2_gallery" caption="Photo by Mir." %}
 
 ### Icons + Images:
 
