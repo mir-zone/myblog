@@ -5,6 +5,11 @@ categories:
     - poems
 tag: 
     - 여름
+excerpt: <br>
+header:
+  ## overlay_image: /assets/images/mm-home-page-unsplash-005.png #배경 고정
+  ## overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/md-20200626-01.jpg
 ---
 
 한여름, 숲에 눕다

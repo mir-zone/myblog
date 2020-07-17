@@ -5,6 +5,11 @@ categories:
     - anniversary
 tag:
     - 생일
+excerpt: <br>
+header:
+  ## overlay_image: /assets/images/mm-home-page-unsplash-005.png #배경 고정
+  ## overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/md-20200627-01.png # 500x300 teaser_image
 ---
 
 ![img]({{ site.baseurl }}/assets/images/md-20200627-01.png "생일 축하합니다.")

@@ -10,8 +10,8 @@ main:
     url: /recipes-archive/
   - title: "pets"
     url: /pets/
-  - title: "portfolio"
-    url: /portfolio-archive/
+  - title: "gallery"
+    url: /photo-gallery-archive/
   ##- title: "Sitemap"
   ##  url: /sitemap/
   - title: "Quick-Start Guide"
