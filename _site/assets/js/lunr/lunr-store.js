@@ -152,19 +152,19 @@ var store = [{
         "title": "Lhasa Apso",
         "excerpt":"   The Lhasa Apso (/ˈlɑːsə ˈæpsoʊ/ lah-sə ap-soh) is a non-sporting dog breed originating in Tibet. It was bred as an interior sentinel in the Buddhist monasteries, to alert the monks to any intruders who entered. Lhasa is the capital city of Tibet, and apso is a word in the Tibetan language meaning “bearded”, so, Lhasa Apso simply means “long-haired Lhasa dog”. There are, however, some who claim that the word “apso” is a form of the Tibetan word “rapso”, meaning “goat-like”, which would make the equivalent translation “wooly Lhasa dog”.       From Wikipedia, the free encyclopedia   ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/pets/lhasa-apso/",
+        "url": "http://localhost:4000/pets/2020-04-12-lhasa-apso/",
         "teaser": "http://localhost:4000/assets/studio/mm-pets-page-unsplash-001-th.jpg"
       },{
         "title": "Tabby",
         "excerpt":"   A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually together with a mark resembling an ‘M’ on its forehead. Tabbies are sometimes erroneously assumed to be a cat breed. In fact, the tabby pattern is found in many breeds, as well as among the general mixed-breed population. The tabby pattern is a naturally occurring feature that may be related to the coloration of the domestic cat’s direct ancestor, the African wildcat, which (along with the European wildcat and Asiatic wildcat) has a similar coloration.       From Wikipedia, the free encyclopedia   ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/pets/tabby/",
+        "url": "http://localhost:4000/pets/2020-04-16-tabby/",
         "teaser": "http://localhost:4000/assets/studio/mm-pets-page-unsplash-002-th.jpg"
       },{
         "title": "Welsh Corgi",
         "excerpt":"                                                                                                                              click!!! - cute pet photo.       특징     몸통이 길고 다리가 짧은 영국의 웨일스산의 개이다. 웰시 코기는 펨브로크 웰시 코기 와 카디건 웰시 코기, 이 두 가지의 종류로 나뉘는데 펨브로크 종이 더 흔하다. 웰시 코기 카디건과 펨브룩은 꼬리 길이나 귀 크기, 몸집 등으로 알 수 있다. 펨브룩은 꼬리가 없는 종류도 있지만, 카디건은 대체로 꼬리가 있다. 귀 크기는 카디건이 조금 더 넓고, 몸집도 카디건이 좀 더 크다. 털 색은 갈색, 고동색, 황토색, 검은색, 회색+검은색 점박이 등으로 다양하다. 몸무게는 14~ 17kg정도이다. 활동적이며 운동량이 많다. From Wikipedia, the free encyclopedia    성격     대다수의 웰시 코기는 사람에게 친절하고 잘 따르는 품종으로 유명하다. 그리고 개체에 따라 차이가 있을 수도 있게 된다. 일부는 보더 콜리와 비슷하게 양몰이도 물론 충분히 할 수 있다. 운동량이 많고 활발하여 함께 운동하기에는 아주 좋다. 그래서 소몰이견으로도 알려져 온 것으로 보인다.    주요 질병     림프종, 비만, 간암에 매우 취약하는 경우도 있다. 그 외에도 추간판 헤르니아, 백내장, 슬개골탈구, 요로결석증 등도 물론 취약한 것으로 보인다.   ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/pets/welsh-corgi/",
+        "url": "http://localhost:4000/pets/2020-07-10-welsh-corgi/",
         "teaser": "http://localhost:4000/assets/studio/mm-pets-page-unsplash-003-th.jpg"
       },{
         "title": "Edge Case: Nested and Mixed Lists",
