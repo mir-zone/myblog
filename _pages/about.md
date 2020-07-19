@@ -28,13 +28,15 @@ toc: true
 
 First of all, thanks to Minimal Mistakes for providing the theme.  
 
-** Welcome...! **
+*Welcome...!*
 ---
 새롭게 시작 하는 웹페이지에 접속하여 주셔서 감사합니다.  
 
-Web page를 잘 모르는 초보가 Github를 통해 Site공간을 만들고  
+Web page를 잘 모르는 초보가 Github를 통해  
 
-Minimal Mistakes님의 Theme를 적용하여 이렇게 저만의 공간을 만들어 봅니다.    
+Site공간을 만들고 Minimal Mistakes님의 Theme를  
+
+적용하여 이렇게 저만의 공간을 만들어 봅니다.  
 
 아직, 볼거리는 미흡한 상황이오나  
 
