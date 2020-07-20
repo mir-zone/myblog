@@ -9,9 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html -->
-
-<title>Page Not Found - Nice place to play</title>
+<!-- begin _includes/seo.html --><title>Page Not Found - Nice place to play</title>
 <meta name="description" content="Page not found. Your pixels are in another canvas.">
 
 
@@ -22,7 +20,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Nice place to play">
 <meta property="og:title" content="Page Not Found">
-<meta property="og:url" content="http://localhost:4000/404.html">
+<meta property="og:url" content="http://localhost:4000/myblog/404.html">
 
 
   <meta property="og:description" content="Page not found. Your pixels are in another canvas.">
@@ -42,7 +40,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/404.html">
+<link rel="canonical" href="http://localhost:4000/myblog/404.html">
 
 
 
@@ -53,7 +51,7 @@
     
       "@type": "Person",
       "name": "Mir",
-      "url": "http://localhost:4000/"
+      "url": "http://localhost:4000/myblog/"
     
   }
 </script>
@@ -66,7 +64,7 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Nice place to play Feed">
+<link href="/myblog/feed.xml" type="application/atom+xml" rel="alternate" title="Nice place to play Feed">
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -76,7 +74,8 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/myblog/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
 
 <!--[if IE]>
   <style>
@@ -124,28 +123,28 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/assets/images/logo.png" alt=""></a>
+          <a class="site-logo" href="/myblog/"><img src="/myblog/assets/images/logo.png" alt=""></a>
         
-        <a class="site-title" href="/">
-          My playground
+        <a class="site-title" href="/myblog/">
+          Playground
           <span class="site-subtitle">Version 1.0</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/about/">About</a>
+              <a href="/myblog/about/">About</a>
             </li><li class="masthead__menu-item">
-              <a href="/year-archive/">Posts</a>
+              <a href="/myblog/year-archive/">Posts</a>
             </li><li class="masthead__menu-item">
-              <a href="/collection-archive/">Collections</a>
+              <a href="/myblog/collection-archive/">Collections</a>
             </li><li class="masthead__menu-item">
-              <a href="/recipes-archive/">recipes</a>
+              <a href="/myblog/recipes-archive/">recipes</a>
             </li><li class="masthead__menu-item">
-              <a href="/pets/">pets</a>
+              <a href="/myblog/pets/">pets</a>
             </li><li class="masthead__menu-item">
-              <a href="/photo-gallery-archive/">gallery</a>
+              <a href="/myblog/photo-gallery-archive/">gallery</a>
             </li><li class="masthead__menu-item">
-              <a href="/docs/quick-start-guide/">Quick-Start Guide</a>
+              <a href="/myblog/docs/quick-start-guide/">Quick-Start Guide</a>
             </li><li class="masthead__menu-item">
-              <a href="/terms/">Terms &amp; Privacy Policy</a>
+              <a href="/myblog/terms/">Terms &amp; Privacy Policy</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -182,7 +181,7 @@
   
     <div class="author__avatar">
       
-        <img src="/assets/images/bio-photo.jpg" alt="Mir" itemprop="image">
+        <img src="/myblog/assets/images/bio-photo.jpg" alt="Mir" itemprop="image">
       
     </div>
   
@@ -389,7 +388,7 @@
       
     
 
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/myblog/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -399,9 +398,7 @@
     </div>
 
     
-  <script src="/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
-
+  <script src="/myblog/assets/js/main.min.js"></script>
 
 
 <!-- Including InstantSearch.js library and styling -->
@@ -431,7 +428,7 @@ const hitTemplate = function(hit) {
   return `
     <div class="list__item">
       <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-        <h2 class="archive__item-title" itemprop="headline"><a href="${url}">${title}</a></h2>
+        <h2 class="archive__item-title" itemprop="headline"><a href="/myblog${url}">${title}</a></h2>
         <div class="archive__item-excerpt" itemprop="description">${content}</div>
       </article>
     </div>
@@ -458,7 +455,6 @@ search.addWidget(
 // Starting the search
 search.start();
 </script>
-
 
 
 

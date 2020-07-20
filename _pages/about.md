@@ -26,7 +26,7 @@ last_modified_at: 2020-05-01T10:15:22-04:00
 toc: true
 ---
 
-First of all, thanks to Minimal Mistakes for providing the theme.  
+First of all, thanks to Michael Rose for providing the theme.  
 
 *Welcome...!*
 ---
@@ -81,10 +81,24 @@ Site공간을 만들고 Minimal Mistakes님의 Theme를
 
 ### Icons + Images:
 
-Free license 제공 site를 통하여 활용한다.
+- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
+- [Font Awesome](http://fontawesome.io/)
+- [Unsplash](https://unsplash.com/)
 
 
 ### Other:
+
+- [Jekyll](https://jekyllrb.com/)
+- [jQuery](https://jquery.com/)
+- [Susy](http://susy.oddbird.net/)
+- [Breakpoint](http://breakpoint-sass.com/)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+- [FitVids.JS](http://fitvidsjs.com/)
+- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
+- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+- [Lunr](http://lunrjs.com)
+
+---
 
 사람은  
 
@@ -98,7 +112,4 @@ Free license 제공 site를 통하여 활용한다.
 
 우리는 줄곧 이어져 살고 있으며,  
 
-마음을 자아내 가는 '사람'이다.  
-
----
-감사합니다. ~!
+마음을 자아내 가는 '사람'이다. 
