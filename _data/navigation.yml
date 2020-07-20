@@ -14,8 +14,8 @@ main:
     url: /photo-gallery-archive/
   ##- title: "Sitemap"
   ##  url: /sitemap/
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  ## - title: "Quick-Start Guide"
+  ##   url: /docs/quick-start-guide/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 

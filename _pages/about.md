@@ -34,7 +34,7 @@ First of all, thanks to Michael Rose for providing the theme.
 
 Web page를 잘 모르는 초보가 Github를 통해  
 
-Site공간을 만들고 Minimal Mistakes님의 Theme를  
+Site공간을 만들고 Minimal Mistakes Theme를  
 
 적용하여 이렇게 저만의 공간을 만들어 봅니다.  
 
