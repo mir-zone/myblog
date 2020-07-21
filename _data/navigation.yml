@@ -12,6 +12,8 @@ main:
     url: /pets/
   - title: "gallery"
     url: /photo-gallery-archive/
+  - title: "study"
+    url: /study-archive/
   ##- title: "Sitemap"
   ##  url: /sitemap/
   ## - title: "Quick-Start Guide"

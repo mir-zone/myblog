@@ -59,7 +59,7 @@ algolia:
   search_only_api_key    : 96e74ba0e93712f4f3af52b74ba8f5cf # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude: 
-    - _posts/2017-11-28-post-exclude-search.md
+    - _study/2017-11-28-post-exclude-search.md
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Mir"
   avatar            : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio                : "개인 놀이터 블로그"
+  bio                : "Pleasant space..."
   location         : "Republic of Korea"
   links:
     - label: "Email"
@@ -280,6 +280,9 @@ collections:
   gallery:
     output: true
     permalink: /:collection/:path/
+  study:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -338,3 +341,13 @@ defaults:
       author_profile: false
       share: true
       comments: true
+  # _study
+  - scope:
+      path: ""
+      type: study
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: false
+
