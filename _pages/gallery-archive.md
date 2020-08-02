@@ -3,6 +3,7 @@ title: Photo Gallery
 layout: collection
 permalink: /photo-gallery-archive/
 collection: gallery
+author_profile: false
 entries_layout: grid
 classes: wide
 excerpt: >
